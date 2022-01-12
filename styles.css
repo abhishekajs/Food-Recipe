@@ -1,0 +1,59 @@
+* {
+  background-color: seashell;
+  font-family: "Nunito";
+}
+
+.title {
+  font-size: 60px;
+  line-height: 62px;
+  display: flex;
+  margin: 20px;
+  align-content: center;
+  justify-content: center;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: #092b49;
+  font-weight: 400;
+}
+
+.button_a {
+  display: flex;
+  align-content: center;
+  margin-top: 20px;
+  justify-content: center;
+  height: 30px;
+  width: 400px;
+  line-height: 30px;
+  color: black;
+  background-color: red;
+}
+
+.main_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 20rem;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu_spacing {
+  margin-top: 8px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.recipe_heading {
+  display: flex;
+  padding-top: 12px;
+  align-content: center;
+  justify-content: center;
+}
