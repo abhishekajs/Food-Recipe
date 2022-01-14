@@ -13,7 +13,7 @@
   font-weight: 400;
 }
 
-a {
+a{
   text-decoration: none;
   color: #092b49;
   font-weight: 400;
@@ -35,8 +35,9 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height: 20rem;
+  width: 700px;
+  height: auto;
+  border-radius: 12px;
 }
 
 .menu {
